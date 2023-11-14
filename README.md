@@ -1,36 +1,36 @@
 <div align = "center">
 
-<h1><a href="https://github.com/2kabhishek/bare-minimum">bare-minimum</a></h1>
+<h1><a href="https://github.com/pinnheads/repo-template">repo-template</a></h1>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/bare-minimum?style=flat&color=eee&label="> </a>
+<a href="https://github.com/pinnheads/repo-template/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/pinnheads/repo-template?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/bare-minimum?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/pinnheads/repo-template/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/pinnheads/repo-template?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/bare-minimum?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/pinnheads/repo-template/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/pinnheads/repo-template?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/bare-minimum?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/pinnheads/repo-template/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/pinnheads/repo-template?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/bare-minimum?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/pinnheads/repo-template/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/pinnheads/repo-template?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/bare-minimum?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/pinnheads/repo-template/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/pinnheads/repo-template?style=flat&color=e06c75&label="> </a>
 
 <h3>Short Sweet Headline 🎇🎉</h3>
 
 <figure>
-  <img src="images/screenshot.png" alt="bare-minimum in action">
+  <img src="images/screenshot.png" alt="repo-template in action">
   <br/>
-  <figcaption>bare-minimum in action</figcaption>
+  <figcaption>repo-template in action</figcaption>
 </figure>
 
 </div>
 
-bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
+repo-template is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
 
 ## ✨ Features
 
@@ -48,8 +48,8 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 ### 🚀 Installation
 
 ```bash
-git clone https://github.com/2kabhishek/bare-minimum
-cd bare-minimum
+git clone https://github.com/pinnheads/repo-template
+cd repo-template
 <install_command>
 ```
 
@@ -57,9 +57,9 @@ cd bare-minimum
 
 ```bash
 USAGE:
-    bare-minimum [FLAGS] [OPTIONS]
+    repo-template [FLAGS] [OPTIONS]
 Example:
-    bare-minimum
+    repo-template
 ```
 
 ## What's Next
@@ -76,7 +76,7 @@ Planning to add `<feature/module>`.
 
 ### 🌈 Inspiration
 
-bare-minimum was inspired by `<reason/idea>`.
+repo-template was inspired by [bare-minimum by @2KAbhishek](https://github.com/2KAbhishek/bare-minimum).
 
 ### 💡 Challenges/Learnings
 
@@ -85,14 +85,12 @@ bare-minimum was inspired by `<reason/idea>`.
 
 ### 🧰 Tooling
 
--   [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
--   [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
--   [sway2k](https://github.com/2kabhishek/sway2k) — Desktop Environment
--   [qute2k](https://github.com/2kabhishek/qute2k) — Personalized Browser
+-   [dots2k](https://github.com/pinnheads/dots2k) — Dev Environment
+
 
 ### 🔍 More Info
 
--   [similar](https://github.com/2kabhishek/similar) — a related repo
+-   [similar](https://github.com/2KAbhishek/bare-minimum) — a related repo
 
 <hr>
 
@@ -100,11 +98,10 @@ bare-minimum was inspired by `<reason/idea>`.
 
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
-<a href="https://github.com/2KAbhishek/bare-minimum">Source</a>
-| <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
-| <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
-| <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
-| <a href="https://2kabhishek.github.io/links" target="_blank">More Links </a>
-| <a href="https://2kabhishek.github.io/projects" target="_blank">Other Projects </a>
+<a href="https://github.com/pinnheads/repo-template">Source</a>
+| <a href="https://twitter.com/utsavdeep01" target="_blank">Twitter </a>
+| <a href="https://linkedin.com/in/utsavdeep" target="_blank">LinkedIn </a>
+| <a href="https://utsavdeep.com" target="_blank">Portfolio Website </a>
+| <a href="https://utsavdeep.com/project" target="_blank">Other Projects </a>
 
 </div>
